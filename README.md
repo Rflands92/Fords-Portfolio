@@ -1,24 +1,20 @@
-Wildfire Analysis Projects
-
-**Author:** Ford Lands  
-**Program:** ArcGIS Enterprise & Server  
-**Institution:** BootcampGIS  
-**Year:** 2026
+Wildfire Analysis 
 
 ---
 
-##About This Portfolio
+About This Portfolio
 
 This repository contains GIS projects completed as part of my ArcGIS Enterprise and Server coursework. Projects focus on spatial analysis, Python scripting with the ArcGIS API, and real-world environmental data. I chose to create this project with a Colorado Wildfire in mind versus the course works suggestion. 
 
 ---
 
-## Repository Contents
+Repository Contents
 
 | File | Description |
 |---|---|
 | `Final Project Notebook.pdf` | Jupyter/ArcGIS Pro notebook analyzing the East Troublesome Fire (2020) — includes spatial intersection, National Forest acreage calculation, burn severity analysis, and ArcGIS Online map publishing |
-| `Capastone Final.pdf` | Capstone project report — full written analysis and methodology documentation |
+| `Capastone Final.pdf` | 
+Description of 3 Public GIS web applications that ste local to Colorado. 
 
 ---
 
@@ -28,10 +24,10 @@ This repository contains GIS projects completed as part of my ArcGIS Enterprise 
 The East Troublesome Fire ignited on October 14, 2020 in Grand County, Colorado and became the **second-largest wildfire in Colorado recorded history**, burning over 193,000 acres. This project uses Python and ArcGIS Pro to answer:
 
 - What was the total acreage burned?
-- How much of that area fell within **National Forest boundaries**?
+- How much of that area fell within National Forest boundaries?
 - How did burn severity break down across affected forest land?
 
-### Tools & Technologies
+Tools & Technologies
 - **ArcGIS Pro** — Project workspace, geoprocessing, spatial analysis
 - **arcpy** — Spatial intersection, geometry calculations, feature class management
 - **ArcGIS API for Python** — ArcGIS Online authentication, hosted feature layer publishing, Web Map creation
@@ -39,7 +35,7 @@ The East Troublesome Fire ignited on October 14, 2020 in Grand County, Colorado 
 - **Matplotlib** — Data visualization and charting
 - **Git / GitHub** — Version control and portfolio publishing
 
-### Data Sources
+Data Sources
 | Dataset | Source |
 |---|---|
 | Fire Perimeter & Burn Severity (dNBR) | [MTBS — Monitoring Trends in Burn Severity](https://www.mtbs.gov/direct-download) |
@@ -58,25 +54,23 @@ The East Troublesome Fire ignited on October 14, 2020 in Grand County, Colorado 
 
 ---
 
-## Study Area
+Study Area
 
 **Grand County, Colorado** — The East Troublesome Fire burned primarily through the **Arapaho & Roosevelt National Forest** and threatened the communities of Grand Lake and Granby before containment.
 
 ---
 
-## How to Run the Notebook
+How to Run the Notebook
 
 1. Open **ArcGIS Pro** and launch the notebook from the Catalog pane
 2. Update `PROJECT_FOLDER` in Section 1 to your local working directory
 3. Download MTBS data from https://www.mtbs.gov/direct-download (Event ID: `CO4023510601020201021`)
 4. Ensure **Spatial Analyst** extension is licensed in ArcGIS Pro
-5. Run cells sequentially from top to bottom
-
-> **Requirements:** ArcGIS Pro 2.9+, ArcGIS API for Python, Spatial Analyst license, ArcGIS Online account
+5. Run cells sequentially from top to bottom. 
 
 ---
 
-## References
+References
 
 - MTBS Program: https://www.mtbs.gov
 - USFS EDW Open Data: https://data.fs.usda.gov/geodata/edw/datasets.php
@@ -86,10 +80,10 @@ The East Troublesome Fire ignited on October 14, 2020 in Grand County, Colorado 
 
 ---
 
-## 📬 Contact
+Contact
 
 **GitHub:** [Rflands92](https://github.com/Rflands92)  
 > *Feel free to reach out with questions about the methodology or data sources used in these projects.*
 
 ---
-*This portfolio was created for educational purposes as part of an ArcGIS Enterprise coursework program.*
+*This portfolio was created for educational purposes for BootcampGIS.
