@@ -18,9 +18,9 @@ Description of 3 Public GIS web applications that ste local to Colorado.
 
 ---
 
-## Project: East Troublesome Fire (2020) — National Forest Burn Analysis
+Project: East Troublesome Fire (2020) — National Forest Burn Analysis
 
-### Overview
+Overview
 The East Troublesome Fire ignited on October 14, 2020 in Grand County, Colorado and became the **second-largest wildfire in Colorado recorded history**, burning over 193,000 acres. This project uses Python and ArcGIS Pro to answer:
 
 - What was the total acreage burned?
@@ -43,7 +43,7 @@ Data Sources
 | Basemap Imagery | Esri Living Atlas (ArcGIS Online) |
 | Historic Fire Perimeters | [NIFC Open Data Portal](https://data-nifc.opendata.arcgis.com) |
 
-### Methodology
+Methodology
 1. Loaded MTBS fire perimeter shapefile and USFS National Forest boundaries
 2. Reprojected all data to **NAD 1983 UTM Zone 13N** (EPSG:26913) for accurate area calculations in Colorado
 3. Performed spatial **intersection** of fire perimeter × National Forest boundary
@@ -82,8 +82,7 @@ References
 
 Contact
 
-**GitHub:** [Rflands92](https://github.com/Rflands92)  
-> *Feel free to reach out with questions about the methodology or data sources used in these projects.*
+**GitHub:** [Rflands92](https://github.com/Rflands92)  *
 
 ---
 *This portfolio was created for educational purposes for BootcampGIS.
