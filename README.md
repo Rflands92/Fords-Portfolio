@@ -1,10 +1,6 @@
-Wildfire Analysis 
-
----
-
 About This Portfolio
 
-This repository contains GIS projects completed as part of my ArcGIS Enterprise and Server coursework. Projects focus on spatial analysis, Python scripting with the ArcGIS API, and real-world environmental data. I chose to create this project with a Colorado Wildfire in mind versus the course works suggestion. 
+This repository contains GIS projects completed as part of my BootcampGIS coursework. Projects focus on spatial analysis, Python scripting with the ArcGIS API, and real-world environmental data. 
 
 ---
 
@@ -13,8 +9,7 @@ Repository Contents
 | File | Description |
 |---|---|
 | `Final Project Notebook.pdf` | Jupyter/ArcGIS Pro notebook analyzing the East Troublesome Fire (2020) — includes spatial intersection, National Forest acreage calculation, burn severity analysis, and ArcGIS Online map publishing |
-| `Capastone Final.pdf` | 
-Description of 3 Public GIS web applications that ste local to Colorado. 
+| `Capastone Final.pdf` | Description of 3 Public GIS web applications that ste local to Colorado. 
 
 ---
 
