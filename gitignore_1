@@ -1,0 +1,48 @@
+# ── ArcGIS & GIS Data Files ───────────────────────────────────────────────────
+# These are large raw data files - do not commit to GitHub
+data/
+scratch/
+outputs/
+
+# File Geodatabases
+*.gdb/
+
+# Shapefiles
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+
+# Rasters
+*.tif
+*.tiff
+*.img
+*.ovr
+
+# Zip archives
+*.zip
+
+# ArcGIS Pro project files (large and machine-specific)
+*.aprx
+*.lyrx
+*.mapx
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.pyc
+
+# ── System Files ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Credentials (NEVER commit these) ─────────────────────────────────────────
+*.env
+config.py
+secrets.py
