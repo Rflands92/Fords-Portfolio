@@ -9,7 +9,7 @@ Repository Contents
 | File | Description |
 |---|---|
 | `Final Project Notebook.pdf` | Jupyter/ArcGIS Pro notebook analyzing the East Troublesome Fire (2020) — includes spatial intersection, National Forest acreage calculation, burn severity analysis, and ArcGIS Online map publishing |
-| `Capastone Final.pdf` | Description of 3 Public GIS web applications that ste local to Colorado. 
+| `Capastone Final.pdf` | Description of 3 Public GIS web applications that are local to Colorado. 
 
 ---
 
@@ -53,16 +53,6 @@ Methodology
 Study Area
 
 **Grand County, Colorado** — The East Troublesome Fire burned primarily through the **Arapaho & Roosevelt National Forest** and threatened the communities of Grand Lake and Granby before containment.
-
----
-
-How to Run the Notebook
-
-1. Open **ArcGIS Pro** and launch the notebook from the Catalog pane
-2. Update `PROJECT_FOLDER` in Section 1 to your local working directory
-3. Download MTBS data from https://www.mtbs.gov/direct-download (Event ID: `CO4023510601020201021`)
-4. Ensure **Spatial Analyst** extension is licensed in ArcGIS Pro
-5. Run cells sequentially from top to bottom. 
 
 ---
 
